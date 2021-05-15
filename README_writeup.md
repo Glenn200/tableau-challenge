@@ -1,4 +1,6 @@
 # tableau-challenge
+https://public.tableau.com/profile/glenn.a.craven#!/
+
 Phenomenon 1 -- Gender Distribution of Trips
 The gender breakdown of users of CitiBike reflects a large dominance by male users. This would suggest that marketing efforts to increase the percentage of female riders have not been executed or the marketing team needs to revisit the target audience.The other notable observation from the gender data is the increasing representation of those with gender listed as "Unknown". As users supply their own gender, this would possibly indicate more users are unwilling to share gender or they be only one off customers. Usage seems to peek for male and female customers in October. Where the unknowns peek in August, maybe indicating the reaching the end of the vacation period.
 
